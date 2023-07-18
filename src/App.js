@@ -1,7 +1,11 @@
-import React from 'react'
+import React from "react";
+import Hello from "./components/Hello";
 
 export default function App() {
   return (
-    <div>App allaasadssd</div>
-  )
+    <div>
+      <Hello />
+      dsdsds d
+    </div>
+  );
 }
